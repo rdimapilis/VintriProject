@@ -1,0 +1,27 @@
+[
+    {
+        "UserName": "Tony@gmail.com",
+        "BeerId": 2,
+        "Rating": 1,
+        "Comment": "Love this beer"
+    },
+    {
+        "UserName": "Jack@gmail.com",
+        "BeerId": 1,
+        "Rating": 1,
+        "Comment": "This beer taste so good!"
+    },
+    {
+        "UserName": "Robert@gmail.com",
+        "BeerId": 7,
+        "Rating": 2,
+        "Comment": "not good"
+    },
+    {
+        "UserName": "John@gmail.com",
+        "BeerId": 7,
+        "Rating": 1,
+        "Comment": "This is sweet!"
+    }
+
+]
